@@ -11,6 +11,7 @@ namespace Work_with_git_lesson1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, I\'m Proshayrus!");
+            Console.WriteLine("Hello, I\'m Proshayrus!!!!!!!!!!!!");
             Console.ReadKey();
         }
     }
