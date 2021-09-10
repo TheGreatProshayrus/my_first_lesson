@@ -1,0 +1,9 @@
+D:\Prokhor\Work_with_git_lesson1\Work_with_git_lesson1\bin\Debug\Work_with_git_lesson1.exe.config
+D:\Prokhor\Work_with_git_lesson1\Work_with_git_lesson1\bin\Debug\Work_with_git_lesson1.exe
+D:\Prokhor\Work_with_git_lesson1\Work_with_git_lesson1\bin\Debug\Work_with_git_lesson1.pdb
+D:\Prokhor\Work_with_git_lesson1\Work_with_git_lesson1\obj\Debug\Work_with_git_lesson1.csprojResolveAssemblyReference.cache
+D:\Prokhor\Work_with_git_lesson1\Work_with_git_lesson1\obj\Debug\Work_with_git_lesson1.exe
+D:\Prokhor\Work_with_git_lesson1\Work_with_git_lesson1\obj\Debug\Work_with_git_lesson1.pdb
+C:\Users\user\Prokhor\Work_with_git_lesson1\Work_with_git_lesson1\bin\Debug\Work_with_git_lesson1.exe.config
+C:\Users\user\Prokhor\Work_with_git_lesson1\Work_with_git_lesson1\obj\Debug\Work_with_git_lesson1.exe
+C:\Users\user\Prokhor\Work_with_git_lesson1\Work_with_git_lesson1\obj\Debug\Work_with_git_lesson1.pdb
